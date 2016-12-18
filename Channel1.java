@@ -1,8 +1,3 @@
-/*Name: Jeffrey Rubi
- * COMP496 Project 1: Channel Allocation
- * Main class
- */
-
 import java.awt.Point;
 import java.io.File;
 import java.io.FileNotFoundException;
