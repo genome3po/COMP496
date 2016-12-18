@@ -1,5 +1,4 @@
-/*Name: Jeffrey Rubi
- * COMP496 Project 1: Channel Allocation
+/*
  * Main class
  */
 
