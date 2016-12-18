@@ -1,4 +1,4 @@
-/*Name: Jeffrey Rubi
+/*
  * 'Channel' class helper for PriorityQueue class
  */
 import java.awt.Point;
